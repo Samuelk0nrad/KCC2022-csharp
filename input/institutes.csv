@@ -1,0 +1,37 @@
+# -----------------------------------------------------------------------------
+# -- groups
+#A ; UNIs, FHs & Sonstige  ;
+#B ; HTLs & Schulen        ;
+C ; _ALL_                 ;
+
+# -----------------------------------------------------------------------------
+# -- institutions
+# .............................................................................
+# UNIs, FHs & Sonstige
+
+FH_Campus_02                ; C ; FH Campus02                 ;
+FH_Joanneum                 ; C ; FH JOANNEUM                 ;
+FH_Technikum_Wien           ; C ; FH Technikum Wien           ;
+FH_Wr_Neustadt              ; C ; FH Wr. Neustadt             ;
+Montanuniversitaet          ; C ; Montanuni Leoben            ;
+TU_Graz                     ; C ; TU-Graz                     ;
+TU_Wien                     ; C ; TU Wien                     ;
+Uni_Goettingen              ; C ; Uni Göttingen               ;
+Universitaet_Klagenfurt     ; C ; Uni Klagenfurt              ;
+Universitaet_Wien           ; C ; Uni Wien                    ;
+Sonstige                    ; C ; Sonstige                    ;
+
+# .............................................................................
+# HTLs & Schulen
+
+Altes_Gymnasium_Leoben      ; C ; Altes Gymnasium Leoben      ;
+HTL_Bulme_Graz              ; C ; HTL Bulme Graz-Gösting      ;
+HTL_Kaindorf                ; C ; HTL Kaindorf a.d. Sulm      ;
+HTL_Pinkafeld               ; C ; HTL Pinkafeld               ;
+HTL_Rennweg                 ; C ; HTL Rennweg                 ;
+HTL_Villach                 ; C ; HTL Villach                 ;
+TAC_Hartberg                ; C ; TAC Hartberg                ;
+HTL_Weiz                    ; C ; HTL Weiz                    ;
+SonstigeSchule              ; C ; Sonstige Schule             ;
+
+# -----------------------------------------------------------------------------

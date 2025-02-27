@@ -1,0 +1,11 @@
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\bin\Debug\input\warehouse-characteristics.properties
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\bin\Debug\input\orders.csv
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\bin\Debug\input\product-inqueue.csv
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\bin\Debug\input\products.csv
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\bin\Debug\KCC2022.exe.config
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\bin\Debug\KCC2022.exe
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\bin\Debug\KCC2022.pdb
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\obj\Debug\KCC2022.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\obj\Debug\KCC2022.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\obj\Debug\KCC2022.exe
+C:\Users\samue\Documents\dev\csharp\KCC2022-csharp\obj\Debug\KCC2022.pdb

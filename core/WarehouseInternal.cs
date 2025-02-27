@@ -57,7 +57,7 @@ namespace com.knapp.CodingContest.core
 
         public IWarehouseCostFactors GetCostFactors() => costFactors;
 
-        internal MyOrder GetCurrentOrder() => input.GetCurrentOrder();
+        public MyOrder GetCurrentOrder() => input.GetCurrentOrder();
 
         public IEnumerable<WarehouseOperation> GetResult() => operations;
 

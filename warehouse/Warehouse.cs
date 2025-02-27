@@ -1,5 +1,6 @@
 ﻿using com.knapp.CodingContest.data;
 using System.Collections.Generic;
+using com.knapp.CodingContest.core;
 
 namespace com.knapp.CodingContest.warehouse
 {
@@ -17,6 +18,8 @@ namespace com.knapp.CodingContest.warehouse
         Storage GetStorage();
 
         IReadOnlyCollection<Product> GetRemainingProductsAtEntry();
+        
+        MyOrder GetCurrentOrder();
 
         IReadOnlyCollection<Order> GetRemainingOrders();
 
